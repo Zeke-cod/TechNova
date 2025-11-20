@@ -290,6 +290,7 @@ footer p {
   .uiUX,
   .graphIdVisuel,
   .val-container {
+    display:grid;
     margin-left: 10px;
     width: 80%;
   }
@@ -320,6 +321,7 @@ footer p {
     font-size: 1.1rem;
   }
 }
+
 
 
 
