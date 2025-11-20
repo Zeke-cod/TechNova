@@ -293,14 +293,11 @@ footer p {
   .val-container {
     display:grid;
     margin-left: 10px;
-    width: 80%;
+    width: 90%;
   }
   .devWebMobile h5,
-  .graphIdVisuel h5 {
-    font-size: 1.3rem;
-  }
-  .uiUX h5 {
-    margin-left: 5rem;
+  .graphIdVisuel h5, {
+  .uiUX h5
     font-size: 1.3rem;
   }
   .devWebMobile p,
@@ -314,7 +311,7 @@ footer p {
   .projects p {
     font-size: 1.2rem;
     margin-left: 8px;
-    width:80%;
+    width:85%;
   }
   .illustration {
     height: 200px;
@@ -326,6 +323,7 @@ footer p {
     font-size: 1.1rem;
   }
 }
+
 
 
 
