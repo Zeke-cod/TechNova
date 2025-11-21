@@ -259,7 +259,7 @@ footer p {
   .projects p {
      font-size: 1.1rem;
     margin-left: 8px;
-    width: 45%;
+    width: 80%;
   }
   #btn {
     margin: 40px 10px;
@@ -313,7 +313,7 @@ footer p {
   .projects p {
      font-size: 1.2rem;
     margin-left: 8px;
-    width:60%;
+    width:90%;
   }
   .illustration {
     height: 200px;
@@ -324,5 +324,8 @@ footer p {
     padding: 10px 20px;
     font-size: 1.1rem;
   }
+    footer p{
+      padding:3px;
 }
+
 
