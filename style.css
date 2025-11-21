@@ -14,7 +14,6 @@ p {
   margin-right: 10px;
   border-radius: 5px;
   border: 2px solid red;
-  border-right: 3px solid rgb(2, 2, 92);
   border-radius: 0px 10px 10px 00px;
   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
   border-left: 15px red solid;
@@ -249,7 +248,7 @@ footer p {
    {
     font-size: 1rem;
     margin-left: 5px;
-    width: 40%;
+    width: 60%;
   }
   .choice p,
   .projects p {
@@ -389,7 +388,7 @@ footer p {
   .graphIdVisuel p {
     font-size: 1.2rem;
     margin-left: 8px;
-    width: 30%;
+    width: 70%;
   }
   .choice p,
   .projects p {
@@ -398,8 +397,7 @@ footer p {
     width:85%;
   }
   .illustration {
-    height: 40px;
-    width: 80px;
+   display:none;
   }
   #btn {
     margin: 30px 5px;
@@ -420,6 +418,7 @@ footer p {
     font-size: 1rem;
   }
 }
+
 
 
 
